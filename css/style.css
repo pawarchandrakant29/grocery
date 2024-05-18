@@ -1,129 +1,129 @@
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .navbar-top {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .bg-head {
-    background: linear-gradient(135deg, #0cc5b7 0%, #2bd891 100%);
+  background: linear-gradient(135deg, #0cc5b7 0%, #2bd891 100%);
 }
 
 input {
-    border: none;
-    padding: 10px;
-    width: 70%;
+  border: none;
+  padding: 10px;
+  width: 70%;
 }
 
 ::placeholder {
-    font-style: italic;
-    font-size: 15px;
+  font-style: italic;
+  font-size: 15px;
 }
 
 .srch-btn {
-    background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
-    border: none;
-    padding: 10px;
-    font-weight: 400;
-    color: #fff;
+  background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
+  border: none;
+  padding: 10px;
+  font-weight: 400;
+  color: #fff;
 }
 
 .shop-bg {
-    height: 40px;
-    width: 40px;
-    background-color: #fff;
-    color: #000;
-    line-height: 40px;
-    border-radius: 50%;
-    text-align: center;
-    font-size: 20px;
+  height: 40px;
+  width: 40px;
+  background-color: #fff;
+  color: #000;
+  line-height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 20px;
 }
 
 swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .btn-off {
-    background-color: #007bff;
-    padding: 0px 5px;
-    color: #fff;
+  background-color: #007bff;
+  padding: 0px 5px;
+  color: #fff;
 }
 
 .sec2-bg {
-    background-color: #e5f5ff;
+  background-color: #e5f5ff;
 }
 
 .ff-circle {
-    color: #4eda92;
-    font-size: 25px;
+  color: #4eda92;
+  font-size: 25px;
 }
 
 .bg-suc-ff {
-    color: #4eda92;
+  color: #4eda92;
 }
 
 .bg-sucess {
-    background-color: #e2fff0;
-    border-radius: 5px;
-    font-size: 15px;
+  background-color: #e2fff0;
+  border-radius: 5px;
+  font-size: 15px;
 }
 
 .color {
-    color: #0cc5b7;
+  color: #0cc5b7;
 }
 
 .fs {
-    font-size: 17px;
-    font-weight: bold;
+  font-size: 17px;
+  font-weight: bold;
 }
 
 .fs-kg {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .btn-cart {
-    background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
-    color: #fff;
-    padding: 10px;
-    font-size: 12px;
-    border-radius: 20px;
+  background: linear-gradient(135deg, #ff934b 0%, #ff5e62 100%);
+  color: #fff;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 20px;
 }
 
 .circle-d {
-    height: 60px;
-    width: 60px;
-    text-align: center;
-    line-height: 60px;
-    border: 1px solid #24a3b5;
-    border-radius: 50%;
-    font-size: 20px;
-    color: #24a3b5;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 60px;
+  border: 1px solid #24a3b5;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #24a3b5;
 }
 
 .color-2 {
-    color: #24a3b5;
+  color: #24a3b5;
 }
 
 .f-s {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .border-btm {
-    border-bottom: 1px solid #575757;
+  border-bottom: 1px solid #575757;
 }
 
 .fs1 {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .color-green {
-    color: #2bd891;
+  color: #2bd891;
 }
 
 .color-blue {
-    color: #007bff;
+  color: #007bff;
 }
